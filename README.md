@@ -4,6 +4,6 @@ GPS has become an integral system for many industries, increasing the impact fro
 This code base is an implementation details of the Epsilon AS algorithms. These algorithms enable an end-user to have basic spoofing detection capabilities without any modifications to the existing GPS receiver. The algorithms only require information commonly provided by GPS receivers and do not have to be implemented on the receiver itself. When used together, these algorithms can detect the effects of targeted position, velocity and clock spoofing attacks.
 
 ## License
-CC0 Version 1.0 Universal license. For more details see: [CC0 License](https://github.com/cisagov/Epsilon/blob/develop/LICENSE).
+[CC0 Version 1.0 Universal license](https://github.com/cisagov/Epsilon/blob/develop/LICENSE)
  
 
