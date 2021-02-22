@@ -1,0 +1,23 @@
+This (software/technical data) was produced for the U. S. Government under 
+Contract Number HSHQDC-14-D-00006, and is subject to Federal Acquisition 
+Regulation Clause 52.227-14, Rights in Data—General. As prescribed in 
+27.409(b)(1), insert the following clause with any appropriate alternates: 
+
+Rights in Data—General  (Deviation May 2014).
+
+No other use other than that granted to the U. S. Government, or to those 
+acting on behalf of the U. S. Government under that Clause is authorized 
+without the express written permission of The MITRE Corporation. 
+
+For further information, please contact The MITRE Corporation, Contracts 
+Management Office, 7515 Colshire Drive, McLean, VA  22102-7539, (703) 
+983-6000.  
+
+(c)2019 The MITRE Corporation
+
+MITRE IS PROVIDING THE SOFTWARE, TECHNICAL DATA AND DOCUMENTATION "AS IS" AND 
+MAKES NO WARRANTY, EXPRESS OR IMPLIED, AS TO THE ACCURACY, CAPABILITY, 
+EFFICIENCY, MERCHANTABILITY, OR FUNCTIONING OF THE SOFTWARE AND/OR 
+DOCUMENTATION. IN NO EVENT WILL MITRE BE LIABLE FOR ANY GENERAL, 
+CONSEQUENTIAL, INDIRECT, INCIDENTAL, EXEMPLARY, OR SPECIAL DAMAGES, EVEN IF 
+MITRE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
